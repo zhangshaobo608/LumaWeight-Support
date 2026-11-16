@@ -1,4 +1,4 @@
-# 轻迹 · LumaWeight Support
+# 体重管家 · LumaWeight Support
 
 Public support and privacy pages. No application source, signing information or health records are stored here.
 
